@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "ebce03746d5e6929",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b78b6e9d5e46f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a938f3cfaf7bb33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/Definitions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d12c194dfff5235a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff802ea2d2ba5242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9991a79cde24f027",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f130d64a7661f67c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daf8a4282c8ea7cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe5fb5b339b4a7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f746f5b4d2a589eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d3100a94a4c424",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals/Definitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3222c77953a39df0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fundamentals/Definitions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "167b5be8d0f99a12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0f747a0bbe3213f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundamentals/Definitions.md"
+              }
+            }
+          },
+          {
+            "id": "1064dd4f0b9be84f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9a938f3cfaf7bb33",
+  "lastOpenFiles": [
+    "Fundamentals/Theorems/Stokes' theorem.md",
+    "EMC/Electromagnetic Compatibility.md",
+    "Fundamentals/Theorems/Gauss' integral theorem.md",
+    "Fundamentals/Eddy Currents.md",
+    "Fundamentals/Definitions.md",
+    "Fundamentals/Types of Magnetism.md",
+    "Fundamentals/Electron Configuration.md",
+    "Fundamentals/Maxwell's Equations.md",
+    "Magnetic Components/Core Losses.md",
+    "Magnetic Components/Magnetic Components.md",
+    "Magnetic Components/Winding Losses.md",
+    "HF dielectric insulation.md",
+    "Magnetic Components/Modelling/Reluctance Model.md",
+    "EMC",
+    "Magnetic Components/Modelling/Equivalent Circuits.md",
+    "Magnetic Components/Modelling",
+    "Fundamentals/Theorems",
+    "Differential mode.md",
+    "Stoke's theorem.md",
+    "Magnetic Components",
+    "Fundamentals",
+    "Stokes theorem.md"
+  ]
+}

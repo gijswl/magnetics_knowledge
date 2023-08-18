@@ -1,0 +1,2 @@
+Gauss' integral theorem or the _divergence theorem_ relates the flux through a closed surface to the divergence of the field in the enclosed volume.
+$$\iiint_V (\nabla \cdot \mathbf{F}) dv = \oint_{\partial V} \mathbf{F} \cdot d\mathbf{s}$$

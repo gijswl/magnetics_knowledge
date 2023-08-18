@@ -1,0 +1,2 @@
+Stokes' theorem is a theorem in vector calculus that relates the surface integral of the curl of a vector field to a line integral over the boundary of that surface.
+$$\iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{s} = \oint_{\partial S} \mathbf{F} \cdot d\mathbf{l}$$
