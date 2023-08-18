@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HF dielectric insulation.md",
+                "file": "Magnetic Components/Modelling/Reluctance Model.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HF dielectric insulation.md",
+                "file": "Magnetic Components/Modelling/Reluctance Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HF dielectric insulation.md",
+                "file": "Magnetic Components/Modelling/Reluctance Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HF dielectric insulation.md"
+                "file": "Magnetic Components/Modelling/Reluctance Model.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "9a938f3cfaf7bb33",
   "lastOpenFiles": [
-    "README.md",
     "HF dielectric insulation.md",
+    "Magnetic Components/Modelling/Reluctance Model.md",
+    "README.md",
     "Fundamentals/Definitions.md",
     "New Text Document.txt",
     "README.MD",
@@ -171,7 +172,6 @@
     "Magnetic Components/Core Losses.md",
     "Magnetic Components/Magnetic Components.md",
     "Magnetic Components/Winding Losses.md",
-    "Magnetic Components/Modelling/Reluctance Model.md",
     "EMC",
     "Magnetic Components/Modelling/Equivalent Circuits.md",
     "Magnetic Components/Modelling",
