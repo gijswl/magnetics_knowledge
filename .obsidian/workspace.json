@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Definitions.md",
+                "file": "HF dielectric insulation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Definitions.md",
+                "file": "HF dielectric insulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Definitions.md",
+                "file": "HF dielectric insulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Definitions.md"
+                "file": "HF dielectric insulation.md"
               }
             }
           },
@@ -156,18 +156,21 @@
   },
   "active": "9a938f3cfaf7bb33",
   "lastOpenFiles": [
+    "README.md",
+    "HF dielectric insulation.md",
+    "Fundamentals/Definitions.md",
+    "New Text Document.txt",
+    "README.MD",
     "Fundamentals/Theorems/Stokes' theorem.md",
     "EMC/Electromagnetic Compatibility.md",
     "Fundamentals/Theorems/Gauss' integral theorem.md",
     "Fundamentals/Eddy Currents.md",
-    "Fundamentals/Definitions.md",
     "Fundamentals/Types of Magnetism.md",
     "Fundamentals/Electron Configuration.md",
     "Fundamentals/Maxwell's Equations.md",
     "Magnetic Components/Core Losses.md",
     "Magnetic Components/Magnetic Components.md",
     "Magnetic Components/Winding Losses.md",
-    "HF dielectric insulation.md",
     "Magnetic Components/Modelling/Reluctance Model.md",
     "EMC",
     "Magnetic Components/Modelling/Equivalent Circuits.md",
